@@ -1,0 +1,22 @@
+# Results and outputs
+*.pth
+*.pt
+resnet_results.txt
+results.txt
+*.png
+*.jpg
+*.jpeg
+
+# Dataset
+archive/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Cascade file
+haarcascade_frontalface_default.xml

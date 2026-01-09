@@ -1,0 +1,27 @@
+# Core ML and Computer Vision
+torch>=1.13.0
+torchvision>=0.14.0
+opencv-python>=4.7.0
+Pillow>=9.0.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+
+# Streamlit and Web Interface
+streamlit>=1.25.0
+plotly>=5.15.0
+streamlit-plotly-events>=0.0.6
+
+# Video Processing
+imageio>=2.22.0
+imageio-ffmpeg>=0.4.7
+
+# Utilities
+tqdm>=4.64.0
+argparse
+
+# Optional: For enhanced video processing
+# ffmpeg-python>=0.2.0
+
+# Development and Deployment
+watchdog>=2.1.0  # For streamlit auto-reload

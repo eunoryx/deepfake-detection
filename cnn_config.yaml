@@ -1,0 +1,9 @@
+dataset:
+  train_dir: "path/to/your/training/data"
+  val_dir: "path/to/your/validation/data"
+  num_frames: 8 # Number of thumbnails per video
+
+training:
+  batch_size: 8
+  num_epochs: 20
+  learning_rate: 0.0001
